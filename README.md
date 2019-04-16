@@ -1,3 +1,3 @@
 # Computer vision
 
-计算机视觉
+![](xmind/计算机视觉.png)
